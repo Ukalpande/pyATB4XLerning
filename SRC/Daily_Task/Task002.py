@@ -8,20 +8,20 @@ Format your out with f{""}
 
 num1 = int(input("Enter the num1 "))
 num2 = int(input("Enter the num2 "))
-max =max(num1, num2)
+max = max(num1, num2)
 print(max)
 
 pow = pow(num1, num2)
 print(pow)
 
-sum = (num1+num2)
+sum = (num1 + num2)
 print(sum)
 
-mul = (num1*num2)
+mul = (num1 * num2)
 print(mul)
 
-sub = ( num1-num2)
+sub = (num1 - num2)
 print(sub)
 
-div = (num1/num2)
+div = (num1 / num2)
 print(div)
