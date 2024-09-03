@@ -6,7 +6,8 @@ age = 65
  Identifier rules
  They start with a letter (A-Z or a-z)
  an underscore (_) followed by zero or more letters,
- python is case sensitive
+ python is case sensitive lang 
+ 
 """
 
 a = 10

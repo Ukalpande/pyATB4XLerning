@@ -1,11 +1,11 @@
- #Task #3
+# Task #3
 
 
- #- What does the ** operator do in Python, and how is it used?
+# - What does the ** operator do in Python, and how is it used?
 
- #- Explain the difference between the = operator and the == operator in Python.
+# - Explain the difference between the = operator and the == operator in Python.
 
- #- What does the ^ operator do in Python, and in what context is it commonly used?
+# - What does the ^ operator do in Python, and in what context is it commonly used?
 """
  What does the ** Operator do in python, and how is it used..?
 Ans --
@@ -59,9 +59,6 @@ Ans - The ^ Operator is use for the bitwise XOR (exclusive OR) operator
 
 """
 
-
-a= 2
+a = 2
 b = 2
-print((a+b)**2)
-
-
+print((a + b) ** 2)
