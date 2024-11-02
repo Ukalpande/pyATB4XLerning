@@ -16,3 +16,4 @@ for n in range(10):
         continue
     print(n)
 
+# pass -- can be used in the statment, functions, class and objects 

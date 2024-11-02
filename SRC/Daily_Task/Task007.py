@@ -9,6 +9,7 @@ A leap year is divisible by 4,
 Use an if-else statement to make this determination.
 """
 year = int(input("Enter the year "))
+#if the year divisibale by 4 and also not  divisible 400
 
 if year % 4 == 0 and year % 100 != 0 and year % 400 == 0:
 
