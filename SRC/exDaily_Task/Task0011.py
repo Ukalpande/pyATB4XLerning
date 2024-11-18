@@ -6,8 +6,8 @@
 #ask user about the informetion for E1,E2
 #print the details of the E1, E2 via print employee function.
 
-class Employee:
 
+class Employee:
 
     name = None
     age = None
@@ -15,3 +15,5 @@ class Employee:
     eid = None
     address = None
 
+def __init__(self, name ):
+     print(name)
